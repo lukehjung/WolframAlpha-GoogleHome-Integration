@@ -1,5 +1,6 @@
 # WolframAlpha-GoogleHome-Integration
 Links google actions to wolfram server to ping questions directly into their server, expanding google actions results to include those like derivatives and integrals.
+![alt_text](https://github.com/lukejung99/WolframAlpha-GoogleHome-Integration/blob/master/howdoesitwork.png?raw=true)
 ## What is a Google Home?
 A google home is pretty much Google’s product of an Alexa.  It’s an automated personal assistant, meaning it uses artificial intelligent code to relay responses or actions to different requests.  Useful things it can do include actions such as play music, set timers and alarms, give you the weather, and pretty much any other questions you have.  All the information goes through Google’s Google Actions which utilizes the google search engine for answers and other useful information.  It is activated with the invocation of either “Hey Google,” or “Ok Google.”
 ## What is API.AI?
